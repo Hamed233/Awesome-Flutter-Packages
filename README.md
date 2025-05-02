@@ -1,5 +1,7 @@
 # Awesome Flutter Packages
 
+<img src="flutter_logo.png" alt="Awesome Flutter Packages" width="800" style="max-width: 100%;">
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Flutter packages and resources categorized by functionality. This repository aims to help Flutter developers find the right packages for their projects quickly and efficiently.
