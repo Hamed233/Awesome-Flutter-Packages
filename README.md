@@ -118,8 +118,10 @@ A curated list of awesome Flutter packages and resources categorized by function
 
 - [shared_preferences](https://pub.dev/packages/shared_preferences) - Flutter plugin for reading and writing simple key-value pairs.
 - [hive](https://pub.dev/packages/hive) - Lightweight and blazing fast key-value database written in pure Dart.
+  ➡️ Community-maintained version: [hive_ce](https://pub.dev/packages/hive_ce).
 - [sqflite](https://pub.dev/packages/sqflite) - SQLite plugin for Flutter.
 - [isar](https://pub.dev/packages/isar) - A super fast cross-platform database for Flutter.
+  ➡️ Community-maintained version: [isar-community](https://isar-community.dev).
 - [flutter_secure_storage](https://pub.dev/packages/flutter_secure_storage) - Flutter secure storage for storing data in Keychain (iOS) and KeyStore (Android).
 
 ## Authentication
