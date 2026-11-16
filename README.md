@@ -16,6 +16,7 @@ A curated list of awesome Flutter packages and resources categorized by function
   - [Forms & Inputs](#forms--inputs)
   - [Images & Media](#images--media)
   - [Lists & Grids](#lists--grids)
+  - [Calendars](#calendars)
   - [Themes & Styles](#themes--styles)
 - [State Management](#state-management)
 - [Networking & API](#networking--api)
@@ -87,6 +88,10 @@ A curated list of awesome Flutter packages and resources categorized by function
 - [pull_to_refresh](https://pub.dev/packages/pull_to_refresh) - A widget provided to the flutter scroll component drop-down refresh and pull up load.
 - [flutter_slidable](https://pub.dev/packages/flutter_slidable) - A Flutter implementation of slidable list item with directional slide actions.
 - [reorderable_grid_view](https://pub.dev/packages/reorderable_grid_view) - A reorderable grid view for Flutter.
+
+### Calendars
+
+- [infinite_calendar_view](https://pub.dev/packages/infinite_calendar_view) - Infinite scrolling calendar views (planner, day, multi-day, month and events list) with drag and drop, pinch to zoom and multi-column support.
 
 ### Themes & Styles
 
