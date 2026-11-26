@@ -139,6 +139,7 @@ A curated list of awesome Flutter packages and resources categorized by function
 - [firebase_crashlytics](https://pub.dev/packages/firebase_crashlytics) - Flutter plugin for Firebase Crashlytics.
 - [amplitude_flutter](https://pub.dev/packages/amplitude_flutter) - A Flutter plugin for tracking events with Amplitude.
 - [flutter_segment](https://pub.dev/packages/flutter_segment) - Segment plugin for Flutter.
+- [measure_flutter](https://pub.dev/packages/measure_flutter) - Flutter Plugin for Mobile Observability in Production, helpful for tracking ANRs, Network Issues & Performance Issues
 
 ## Utilities
 
